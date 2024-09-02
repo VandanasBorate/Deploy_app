@@ -1,0 +1,942 @@
+    1  cd /var/log/
+    2  ls
+    3  ls -h
+    4  ls -lh
+    5  less kern.log 
+    6  cd hp/
+    7  ls
+    8  cd tmp/
+    9  ls
+   10  cd ..
+   11  ls
+   12  less dmesg 
+   13  sudo snap install --classic code
+   14  sudo snap install --classic code # or code-insiders
+   15  man sudo_root
+   16  su - root
+   17  python3 -m venv myenv
+   18  sudo apt install python3.10-venv
+   19  python3 -m venv myenv
+   20  source myenv/bin/activate
+   21  pip install websockets
+   22  pipenv install websockets
+   23  pipenv install asyncio
+   24  pip  install asyncio
+   25  pip install websocke6ts
+   26  pip install websockets
+   27  python3 server.py
+   28  clear
+   29  python3 server.py
+   30  clear
+   31  python3 server.py
+   32  clear
+   33  python3 server.py
+   34  clear
+   35  python3 server.py
+   36  clear
+   37  python3 server.py
+   38  clear
+   39  python3 server.py
+   40  clear
+   41  python3 server.py
+   42  clear
+   43  python3 server.py
+   44  clear
+   45  python3 server.py
+   46  clear
+   47  python3 server.py
+   48  clear
+   49  python3 server.py
+   50  python3 client.py
+   51  clear
+   52  python3 client.py
+   53  clear
+   54  python3 client.py
+   55  clear
+   56  python client.py
+   57  clear
+   58  python client.py
+   59  clear
+   60  python client.py
+   61  clear
+   62  python client.py
+   63  clear
+   64  python client.py
+   65  clear
+   66  python client.py
+   67  python3 client.py
+   68  clear
+   69  python3 client.py
+   70  clear
+   71  python3 client.py
+   72  clear
+   73  python3 client.py
+   74  clear
+   75  python3 client.py
+   76  clear
+   77  python3 client.py
+   78  pip install websockets
+   79  ls
+   80  pip freeze
+   81  clear
+   82  python3 client.py
+   83  clear
+   84  python3 client.py
+   85  python3 client.py
+   86  clear
+   87  python3 client.py
+   88  clear
+   89  python3 client.py
+   90  python client.py
+   91  sudo -i
+   92  ls
+   93  cd Desktop/
+   94  ls
+   95  touch server.py
+   96  vim server.py 
+   97  touch client.py
+   98  vim client.py 
+   99  python client.py
+  100  clear
+  101  python client.py
+  102  clear
+  103  python client.py
+  104  clear
+  105  python client.py
+  106  python client2.py
+  107  python client.py
+  108  python client2.py
+  109  python client3.py
+  110  python client.py
+  111  python client4.py
+  112  clear
+  113  python client.py
+  114  python client3.py
+  115  python client.py
+  116  clear
+  117  python client.py
+  118  clear
+  119  python client.py
+  120  python client2.py
+  121  python client.py 
+  122  python client2.py 
+  123  python client3.py 
+  124  python client3.py
+  125  python client.py
+  126  python client4.py
+  127  clear
+  128  python client3.py
+  129  python c.py
+  130  clear
+  131  python c.py
+  132  clear
+  133  python c.py
+  134  clear
+  135  python c.py
+  136  python c.py
+  137  clear
+  138  python c.py
+  139  clear
+  140  python c.py
+  141  clear
+  142  python client.py
+  143  python c.py
+  144  clear
+  145  python c.py
+  146  clear
+  147  python c.py
+  148  clear
+  149  python c.py
+  150  clear
+  151  python c.py
+  152  clear
+  153  python client.py
+  154  /home/innuser002/Downloads/websocket_communication/myenv/bin/python /home/innuser002/Downloads/websocket_communication/server.py
+  155  clear
+  156  python server.py
+  157  clear
+  158  python server.py
+  159  clear
+  160  python server.py
+  161  clear
+  162  python server.py
+  163  python server2.py 
+  164  python server.py 
+  165  python server2.py 
+  166  python server3.py 
+  167  clear
+  168  python server4.py
+  169  clear
+  170  python s.py
+  171  clear
+  172  python s.py
+  173  clear
+  174  python s.py
+  175  clear
+  176  python s.py
+  177  clear
+  178  python s.py
+  179  clear
+  180  python s.py
+  181  clear
+  182  python server.py
+  183  python client.py
+  184  clear
+  185  python server.py
+  186  clear
+  187  python server.py
+  188  clear
+  189  python client.py
+  190  cleae
+  191  client
+  192  clear
+  193  python client2.py
+  194  clear
+  195  python client4.py
+  196  client.py
+  197  clear
+  198  python client.py
+  199  clear
+  200  python client.py
+  201  clear
+  202  python client.py
+  203  clear
+  204  python client2.py
+  205  clear
+  206  python client4.py
+  207  clear
+  208  python server.py
+  209  clear
+  210  python client.py
+  211  clear
+  212  python server.py4
+  213  python server.py
+  214  clear
+  215  python server2.py
+  216  clear
+  217  python server4.py
+  218  /bin/python3 /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  219  history
+  220  history
+  221  python server2.py
+  222  python server2.py
+  223  python client2.py
+  224  python s.py
+  225  clear
+  226  python client.py
+  227  clear
+  228  python client2.py
+  229  python c.py
+  230  clear
+  231  python server.py
+  232  python c.py
+  233  clear
+  234  python client.py
+  235  python server2.py
+  236  python client2.py
+  237  python client2.py
+  238  python client.py
+  239  clear
+  240  python client.py
+  241  python server.py
+  242  python client.py
+  243  python s.py
+  244  clear
+  245  python s.py
+  246  ps
+  247  jobs
+  248  top
+  249  clear
+  250  python s.py
+  251  clear
+  252  python s.py
+  253  python c.py
+  254  clear
+  255  python c.py
+  256  python c.py
+  257  clear
+  258  python c.py
+  259  python s.py
+  260  clear
+  261  python c.py
+  262  python s.py
+  263  python c.py
+  264  python c.py
+  265  python client2.py
+  266  python c.py
+  267  python c.py
+  268  python client2.py
+  269  python c.py
+  270  python client2.py
+  271  clear
+  272  python server2.py
+  273  clear
+  274  python server2.py
+  275  clear
+  276  python server2.py
+  277  clear
+  278  python server2.py
+  279  clear
+  280  python server2.py
+  281  clear
+  282  python server2.py
+  283  clear
+  284  python server2.py
+  285  clear
+  286  python server2.py
+  287  clear
+  288  python server2.py
+  289  clear
+  290  python server2.py
+  291  clear
+  292  python client2.py
+  293  python client4.py
+  294  python c.py
+  295  python server.py
+  296  clear
+  297  python client4.py
+  298  clear
+  299  python client4.py
+  300  clear
+  301  python c.py
+  302  clear
+  303  python client4.py
+  304  clear
+  305  python client4.py
+  306  clear
+  307  python s.py
+  308  clear
+  309  python s.py
+  310  clear
+  311  python server2.py
+  312  clear
+  313  python c.py
+  314  clear
+  315  python client4.py
+  316  hi
+  317  clear
+  318  python c.py
+  319  python c.py
+  320  python c.py
+  321  python c.py
+  322  python c.py
+  323  python s.py
+  324  python client4.py
+  325  python client4.py
+  326  python c.py
+  327  python c.py
+  328  python c.py
+  329  python s.py
+  330  python server.py
+  331  python s.py
+  332  python c.py
+  333  python c.py
+  334  /bin/python3 /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  335  python server.py
+  336  python server4.py
+  337  python s.py
+  338  python3 -m venv myenv
+  339  source myenv/bin/activate
+  340  sudo apt update
+  341  sudo apt install python3-pip
+  342  pip3 install websockets
+  343  ppip freeze
+  344  pip freeze
+  345  python server.py
+  346  python3 server.py
+  347  source myenv/bin/activate
+  348  python3 server.py
+  349  /bin/python3 /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  350  python server.py
+  351  clear
+  352  python server.py
+  353  python3 server.py
+  354  python3 -m venv myenv
+  355  source myenv/bin/activate
+  356  clear
+  357  pip freeze
+  358  pip3 install websockets
+  359  sudo apt install python3-pip
+  360  python3 server.py
+  361  ls
+  362  python3 server.py
+  363  python3 c.py
+  364  python3 c.py
+  365  python3 c.py
+  366  python3 -m venv myenv
+  367  source myenv/bin/activate
+  368  sudo apt install python3-pip
+  369  pip3 install websockets
+  370  ls
+  371  deactivate
+  372  ls
+  373  python s.py
+  374  python3 s.py
+  375  /bin/python3 /home/innuser002/Downloads/Chat_application/server.py
+  376  cleae
+  377  clear
+  378  ls
+  379  source myenv/bin/activate
+  380  ls
+  381  python server.py
+  382  clear
+  383  python c.py
+  384  python3 c.py
+  385  clear
+  386  python3 c.py
+  387  clear
+  388  python3 c.py
+  389  clear
+  390  python server.py
+  391  clear
+  392  python server.py
+  393  clear
+  394  python server.py
+  395  clear
+  396  source myenv/bin/activate
+  397  clear
+  398  python3 s.py
+  399  python3 c.py
+  400  python3 c.py
+  401  python3 c.py
+  402  python3 s.py
+  403  python3 server.py
+  404  python3 client.py
+  405  clear
+  406  python3 client.py
+  407  python3 client.py
+  408  python3 client.py
+  409  python3 client.py
+  410  python3 server.py
+  411  clear
+  412  python3 server.py
+  413  clear
+  414  clear
+  415  source myenv/bin/activate
+  416  python samole.py
+  417  python sample.py
+  418  clear
+  419  python sample.py
+  420  clear
+  421  python3 server.py
+  422  clear
+  423  python3 server.py
+  424  ps
+  425  job
+  426  jobs
+  427  top
+  428  ps -aux | chrome
+  429  ps -aux | grep files
+  430  kill -9 776
+  431  top
+  432  kill -9 5484
+  433  clear
+  434  cd Downloads
+  435  ls
+  436  sudo -i
+  437  python3 server.py
+  438  python newc.py
+  439  python client.py
+  440  python newc.py
+  441  python client.py
+  442  /bin/python3 /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  443  clear
+  444  ls
+  445  python newc.py
+  446  python news.py
+  447  python server.py
+  448  /bin/python3 /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  449  top
+  450  ps -aux | grep chrome
+  451  kill -9 4597
+  452  clear
+  453  top
+  454  kill -9 4636
+  455  /bin/python3 /home/innuser002/Downloads/Authentication_protocol/kerberos.py
+  456  python kerberos.py
+  457  python3 kerberos.py
+  458  cleear
+  459  clear
+  460  python3 kerberos.py
+  461  pip install dnspython
+  462  pip install pydns
+  463  pip install dnspython pydns
+  464  python3 kerberos.py
+  465  pip show spf
+  466  pip install spf
+  467  pip install pyspf
+  468  pip show  pyspf
+  469  /bin/python3 /home/innuser002/Downloads/Authentication_protocol/kerberos.py
+  470  clear
+  471  pip install requests-kerberos
+  472  clear
+  473  pip install pyspf
+  474  ssh administrator@192.168.1.110 -D 6027
+  475  /bin/python3 /home/innuser002/Downloads/Authentication_protocol/authentication-_protocols/dkim_check.py
+  476  clear
+  477  python3 dkim_check.py
+  478  ls
+  479  cd authentication-_protocols  
+  480  ls
+  481  python3 dkim_check.py
+  482  git add .
+  483  git commit -m "dkim authentication is sucessfull"
+  484  git push origin main
+  485  git status
+  486  ls
+  487  python3 damac.py
+  488  git add
+  489  git status
+  490  git add .
+  491  ls
+  492  git commit -m "DMARC authentication protocol"
+  493  git push origin main
+  494  ls
+  495  python3 bimi.py
+  496  clear
+  497  python3 bimi.py
+  498  python3 arc.py
+  499  python spf.py
+  500  python3 spf.py
+  501  ls
+  502  python3 spf.py
+  503  python3 spf_check.py
+  504  LS
+  505  ls
+  506  git clone https://github.com/VandanasBorate/authentication-_protocols.git
+  507  git add.
+  508  git add .
+  509  ls
+  510  cd authentication-_protocols 
+  511  ls
+  512  git add .
+  513  ls
+  514  git add spf_check.py
+  515  ls
+  516  git add.
+  517  git add .
+  518  ls
+  519  git commit -m "Add spf "
+  520  git config --global user.name "vandanasborate"
+  521  git config --global user.email "vandanasborate2193@gmail.com"
+  522  git commit -m "Add spf "
+  523  git config --global --list
+  524  ls
+  525  python3 dkim_check.py
+  526  ls
+  527  python3 dkim_check.py
+  528  pip install dkimpy
+  529  python3 dkim_check.py
+  530  clear
+  531  python3 dkim_check.py
+  532  git add .
+  533  git commit -m "dkim data"
+  534  git push origin main
+  535  python3 dkin_check.py
+  536  ls
+  537  python3 dkim_check.py
+  538  git init
+  539  git config --global user.name "vandanasborate" git config --global user.email "vandanasborate2193@gmail.com"
+  540  git status
+  541  git add .
+  542  git log
+  543  git add . 
+  544  ls
+  545  git push origin main
+  546  ls
+  547  git staus
+  548  git status
+  549  clear
+  550  git status
+  551  git commit -m "new text file"
+  552  git remote add origin https://github.com/VandanasBorate/authentication-_protocols.git
+  553  git remote -v
+  554  git push -u origin main
+  555  git push origin main
+  556  git branch
+  557  git push origin master
+  558  git branch -M master main
+  559  git branch
+  560  git -u push origin main
+  561  git push origin main
+  562  git status
+  563  openssl genrsa -out private.key 2048
+  564  openssl rsa -in private.key -pubout -out public.key
+  565  ls
+  566  selector1._domainkey.yourdomain.com IN TXT "v=DKIM1; k=rsa; p="-----BEGIN PUBLIC KEY-----
+  567  MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtlx8uuXf5yUVh2bMooQG
+  568  7JlwV0/ArMbeDNmJOo1HEORa9ASb8Tz25pRwXfgo64ZUmPQGZhY2ddJgLSWtfv/J
+  569  cFWdh/ih08sNdDHkouqAOCXLSG6J1bgN4T7knl/26i4EdJQGkRzUdQQqMLuEWBsY
+  570  isaVGy9g8hqpShAk9CUmx47DT+beLSigKcNU0H4ptsnsI4i+MxSwXgH6VFsOiFk4
+  571  RqI9EHcfSI1JsPybKaL4M49IVUIlQ/0lhg0oxgg1+c7Gj8VEcVxLlxN8UofwVzbO
+  572  lDn9KXujeJxzYMbreXL0VURtvOuM7XIrFUBS+JVLHYWQs9L0EEfi4TIasZv1oFph
+  573  FwIDAQAB
+  574  -----END PUBLIC KEY-----"
+  575  ls
+  576  exit
+  577  exit()
+  578  clear
+  579  ls
+  580  selector1._domainkey.gmail.com IN TXT "v=DKIM1; k=rsa; p=-----BEGIN PUBLIC KEY-----
+  581  MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtlx8uuXf5yUVh2bMooQG
+  582  7JlwV0/ArMbeDNmJOo1HEORa9ASb8Tz25pRwXfgo64ZUmPQGZhY2ddJgLSWtfv/J
+  583  cFWdh/ih08sNdDHkouqAOCXLSG6J1bgN4T7knl/26i4EdJQGkRzUdQQqMLuEWBsY
+  584  isaVGy9g8hqpShAk9CUmx47DT+beLSigKcNU0H4ptsnsI4i+MxSwXgH6VFsOiFk4
+  585  RqI9EHcfSI1JsPybKaL4M49IVUIlQ/0lhg0oxgg1+c7Gj8VEcVxLlxN8UofwVzbO
+  586  lDn9KXujeJxzYMbreXL0VURtvOuM7XIrFUBS+JVLHYWQs9L0EEfi4TIasZv1oFph
+  587  FwIDAQAB
+  588  -----END PUBLIC KEY-----"
+  589  dig TXT selector1._domainkey.gmail.com
+  590  dig TXT selector1._domainkey.https://mail.google.com/
+  591  dig TXT selector1._domainkey.gmail.com
+  592  dig @8.8.8.8 TXT selector1._domainkey.gmail.com
+  593  dig @8.8.8.8 TXT selector1._domainkey.gmail.com IN TXT "v=DKIM1; k=rsa; p=-----BEGIN PUBLIC KEY-----
+  594  MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtlx8uuXf5yUVh2bMooQG
+  595  7JlwV0/ArMbeDNmJOo1HEORa9ASb8Tz25pRwXfgo64ZUmPQGZhY2ddJgLSWtfv/J
+  596  cFWdh/ih08sNdDHkouqAOCXLSG6J1bgN4T7knl/26i4EdJQGkRzUdQQqMLuEWBsY
+  597  isaVGy9g8hqpShAk9CUmx47DT+beLSigKcNU0H4ptsnsI4i+MxSwXgH6VFsOiFk4
+  598  RqI9EHcfSI1JsPybKaL4M49IVUIlQ/0lhg0oxgg1+c7Gj8VEcVxLlxN8UofwVzbO
+  599  lDn9KXujeJxzYMbreXL0VURtvOuM7XIrFUBS+JVLHYWQs9L0EEfi4TIasZv1oFph
+  600  FwIDAQAB
+  601  -----END PUBLIC KEY-----"
+  602  ls
+  603  code .
+  604  git init
+  605  git init mydemo
+  606  clear
+  607  git config –global user.name “vandanasborate”  
+  608  git config --global user.name "VandanasBorate"
+  609  git config --global user.email "vandanasborate2193@gmail.com"
+  610  git init demo
+  611  git clone https://github.com/VandanasBorate/Web_scraper_projects.git
+  612  /bin/python3 /home/innuser002/demo/test.py
+  613  ls
+  614  cd demo
+  615  ls
+  616  git add test.py
+  617  git commit -m "my test file "
+  618  git status
+  619  git rm
+  620  git status
+  621  ls
+  622  git add .
+  623  git push origin main
+  624  git log
+  625  git log -follow test.py
+  626  git log --follow test.py
+  627  git branch ty
+  628  git branch
+  629  git branch -d ty
+  630  git branch
+  631  python3 server.py
+  632  source myenv/bin/activate
+  633  ls
+  634  python3 server.py
+  635  ifconfig
+  636  sudo apt install net-tools
+  637  ifconfig
+  638  ip addr
+  639  ufw allow 9000/tcp
+  640  sudo ufw allow 9000/tcp
+  641  ip config
+  642  ifconfig
+  643  sudo apt install apache2
+  644  systemctl start apache2
+  645  systemctl enable apache2
+  646  systemctl status apache2
+  647  ls
+  648  cp index.html /var/www/html/
+  649  sudo cp -r  index.html /var/www/html/
+  650  cd /var/www/html/
+  651  ls
+  652  clear
+  653  hostname -f
+  654  vim /etc/hosts
+  655  sudo -i
+  656  ls
+  657  cd
+  658  ls
+  659  cd Desktop/
+  660  ls
+  661  cd prod/
+  662  ls
+  663  sudo su
+  664  ls
+  665  cd /var/www/
+  666  ls
+  667  vim index.html
+  668  sudo vim index.html
+  669  ls
+  670  source venv/bin/activate
+  671  ls
+  672  flask run
+  673  sudo apt install python3-flask
+  674  ls
+  675  flask run
+  676  ls
+  677  mkdir app-1
+  678  sudo mkdir app-1
+  679  ls
+  680  cp -r app.py index.html venv/ app-1
+  681  sudo cp -r app.py index.html venv/ app-1
+  682  ls
+  683  cd app-1/
+  684  ls
+  685  pip install flask-socketio
+  686  exit
+  687  ls
+  688  cd
+  689  ls
+  690  cd -\
+  691  cd -
+  692  ls
+  693  vim app.py
+  694  ls
+  695  source mynev/bin/activate
+  696  source myenv/bin/activate
+  697  ls
+  698  python3 server.py
+  699  clear
+  700  python3 server.py
+  701  /bin/python3 /home/innuser002/Downloads/Chat_application/server.py
+  702  source myenv/bin/activate
+  703  python3 server.py
+  704  source myenv/bin/activate
+  705  ls
+  706  python server.py
+  707  python3 server.py
+  708  /bin/python3 /home/innuser002/Downloads/Chat_application/server.py
+  709  source myenv/bin/activate
+  710  python3 server.py
+  711  source myenv/bin/activate
+  712  python3 server.py
+  713  ls
+  714  python3 server.py
+  715  clear
+  716  python3 server.py
+  717  python3 client.py
+  718  python3 client.py
+  719  python3 client.py
+  720  /bin/python3 /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  721  clear
+  722  ser.py
+  723  python3 ser.py
+  724  /bin/python3 /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/innuser002/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  725  python3 ser.py
+  726  python3 client.py
+  727  /bin/python3 /home/innuser002/Downloads/client_server_chat_app/ser.py
+  728  clear
+  729  python3 ser.py
+  730  cd /var/www/
+  731  ls
+  732  cd app-1/
+  733  ls
+  734  sudo pip install flask-socketio
+  735  app = Flask(app-1)
+  736  ls
+  737  virtualenv venv
+  738  ls
+  739  cd ..
+  740  ls
+  741  ls -a
+  742  cd app-1/
+  743  ls
+  744  source venv/bin/activate
+  745  pip freeze > requirements.txt
+  746  sudo pip freeze > requirements.txt
+  747  flask run
+  748  ls
+  749  vim app.py 
+  750  gunicorn -k eventlet -w 1 app:app --bind 0.0.0.0:9000
+  751  sudo apt install gunicorn
+  752  sudo nano /etc/systemd/system/yourflaskapp.service
+  753  sudo nano /etc/systemd/system/app-1.service
+  754  systemctl start app-1
+  755  systemctl enable app-1
+  756  sudo systemctl status app-1
+  757  ls
+  758  rm -rvf /etc/systemd/system/yourflaskapp.service 
+  759  sudo rm -rvf /etc/systemd/system/yourflaskapp.service 
+  760  ls
+  761  systemctl start app-1
+  762  sudo systemctl enable app-1
+  763  sudo systemctl status app-1
+  764  sudo systemctl start gunicorn
+  765  sudo systemctl start gunicorn.service
+  766  ls
+  767  vim app.py 
+  768  ls
+  769  cd venv/
+  770  ls
+  771  cd ..
+  772  sudo rm -rvf /etc/systemd/system/app-1.service 
+  773  vim /etc/systemd/system/app-1.service 
+  774  sudo vim /etc/systemd/system/app-1.service 
+  775  ls
+  776  sudo ls /etc/systemd/system/app-1.service 
+  777  cat /etc/systemd/system/app-1.service 
+  778  clear
+  779  systemctl start app-1.service
+  780  sudo systemctl daemon-reload
+  781  sudo systemctl start app-1.service
+  782  sudo systemctl enable app-1.service
+  783  sudo systemctl status app-1.service
+  784  ls
+  785  cd venv/bin
+  786  ls
+  787  cd ..
+  788  ls
+  789  cd ..
+  790  ls
+  791  pip install gunicorn eventlet
+  792  sudo pip install gunicorn eventlet
+  793  ls
+  794  cd venv/
+  795  ls
+  796  cd bin/
+  797  ls
+  798  mkdir gunicorn
+  799  ls
+  800  sudo mkdir gunicorn
+  801  ls
+  802  cd gunicorn/
+  803  cd ..
+  804  ls
+  805  sudo pip install gunicorn eventlet
+  806  sudo ls /usr/local/lib/python3.10/dist-packages/
+  807  cp -r /usr/local/lib/python3.10/dist-packages/greenlet gunicorn/ .
+  808  sudo cp -r /usr/local/lib/python3.10/dist-packages/greenlet gunicorn/ .
+  809  ls
+  810  cd greenlet/
+  811  ls
+  812  cd ..
+  813  ls
+  814  cd gunicorn/
+  815  ls
+  816  sudo cd /usr/local/lib/python3.10/dist-packages/
+  817  ls
+  818  cd
+  819  ls
+  820  cd /var/www/
+  821  ls
+  822  cd app-1/
+  823  ls
+  824  cd venv/
+  825  ls
+  826  cd bin/
+  827  ls
+  828  sudo pip uninstall gunicorn
+  829  pip install gunicorn
+  830  sudo -i
+  831  sudo pip install --upgrade pip
+  832  sudo systemctl daemon-reload
+  833  sudo systemctl app-1.service
+  834  ls
+  835  cd ..
+  836  ls
+  837  cd ..
+  838  ls
+  839  cd venv/
+  840  ls
+  841  cd bin/
+  842  ls
+  843  cd gunicorn/
+  844  ls
+  845  sudo vim app-1.service
+  846  sudo systemctl start app-1.service
+  847  sudo systemctl enable app-1.service
+  848  sudo systemctl status app-1.service
+  849  ls
+  850  exit
+  851  pip uninstall flask gunicorn
+  852  rm -rf ~/myenv
+  853  sudo apt-get remove --purge python-flask python-gunicorn
+  854  pip show flask
+  855  pip show gunicorn
+  856  pip3 uninstall flask gunicorn
+  857  sudo pip3 uninstall flask gunicorn
+  858  sudo python3 -m pip uninstall flask gunicorn
+  859  pip show flask
+  860  pip show gunicorn
+  861  pip-autoremove flask gunicorn
+  862  apt autoremove
+  863  sudo apt autoremove
+  864  sudo du -sh /var/cache/apt
+  865  sudo apt-get clean
+  866  sudo apt-get autoclean
+  867  rm -rf ~/.cache/thumbnails/*
+  868  sudo journalctl --disk-usage
+  869  sudo journalctl --vacuum-time=2weeks
+  870  rm -rf ~/.cache/*
+  871  sudo snap list --all
+  872  clear
+  873  sudo apt update
+  874  sudo apt install python3-pip python3-dev nginx
+  875  sudo pip3 install virtualenv
+  876  mkdir myapp && cd myapp
+  877  pwd
+  878  ls
+  879  virtualenv env
+  880  ls
+  881  source env/bin/activate
+  882  ls
+  883  pip install flask gunicorn
+  884  vim app.py
+  885  LS
+  886  ls
+  887  vim app.py
+  888  nano app.py
+  889  ls
+  890  python app.py
+  891  pip install flask flask-socketio
+  892  python app.py
+  893  clear
+  894  ls
+  895  nano app.py
+  896  ls
+  897  mkdir templates && cd templates
+  898  ls
+  899  vim index.html
+  900  ls
+  901  cd..
+  902  cd .
+  903  cd ..
+  904  ls
+  905  ufw allow 5000
+  906  sudo ufw allow 5000
+  907  python app.py
+  908  vim wsgi.py
+  909  ls
+  910  gunicorn --bind 0.0.0.0:5000 wsgi:app
+  911  nano app.py
+  912  gunicorn --bind 0.0.0.0:5000 wsgi:app
+  913  gunicorn --bind 0.0.0.0:5000 --timeout 120 wsgi:app
+  914  deactivate
+  915  ls
+  916  sudo nano /etc/systemd/system/flaskapp.service
+  917  ls
+  918  sudo systemctl start flaskapp
+  919  sudo systemctl enable flaskapp
+  920  ls
+  921  sudo systemctl daemon-reload
+  922  ls
+  923  sudo systemctl start flaskapp
+  924  sudo systemctl enable flaskapp
+  925  ls
+  926  sudo systemctl status flaskapp
+  927  sudo nano /etc/systemd/system/flaskapp.service
+  928  ls
+  929  sudo systemctl daemon-reload
+  930  sudo systemctl start flaskapp
+  931  sudo systemctl enable flaskapp
+  932  sudo systemctl status flaskapp
+  933  ls
+  934  sudo journalctl -u flaskapp
+  935  /home/innuser002/myapp/env/bin/gunicorn --version
+  936  /home/innuser002/myapp/env/bin/gunicorn --bind 0.0.0.0:5000 -k gevent --timeout 120 wsgi:app
+  937  source /home/innuser002/myapp/env/bin/activate
+  938  pip install gevent
+  939  pip show gevent
+  940  /home/innuser002/myapp/env/bin/gunicorn --bind 0.0.0.0:5000 -k gevent --timeout 120 wsgi:app
+  941  history
+  942  history > flaskapp

@@ -1,0 +1,38 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat App</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.min.js"></script>
+</head>
+<body>
+    <h1>WebSocket Chat App</h1>
+    <div id="messages"></div>
+    <input id="messageInput" type="text" placeholder="Enter your message">
+    <button onclick="sendMessage()">Send</button>
+
+    <script type="text/javascript">
+        var socket = io();
+
+        socket.on('connect', function() {
+            console.log('Connected to server');
+        });
+
+        socket.on('message', function(msg) {
+            var messageDiv = document.getElementById('messages');
+            var newMessage = document.createElement('div');
+            newMessage.textContent = msg;
+            messageDiv.appendChild(newMessage);
+        });
+
+        function sendMessage() {
+            var input = document.getElementById('messageInput');
+            socket.send(input.value);
+            input.value = '';
+        }
+    </script>
+</body>
+</html>
+
